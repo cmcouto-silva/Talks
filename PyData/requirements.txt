@@ -1,0 +1,10 @@
+numpy
+pandas
+sidetable
+seaborn
+sklearn
+prince
+adjustText
+ipywidgets
+ipykernel
+pandas-profiling
