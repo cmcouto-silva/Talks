@@ -8,3 +8,4 @@ adjustText
 ipywidgets
 ipykernel
 pandas-profiling
+pySankey
